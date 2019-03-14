@@ -23,7 +23,7 @@
                                                      Mostafa Didar
 ```
 <p align="center">
-  <img width="460" height="400" src="https://github.com/mossydidar/Workshop-on-Machine-Learning-2018/blob/master/Images/28234796_10213887325570230_8277411262478695512_o.jpg">
+  <img width="460" height="400" src="https://github.com/mossydidar/Workshop-on-Machine-Learning-/blob/master/Images/51561962_771749789851987_7929008664961089536_n.jpg">
 </p>
 
 
