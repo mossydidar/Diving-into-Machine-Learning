@@ -28,14 +28,6 @@
 
 
 
-```
-                                                     Asif Ahmed Neloy 
-```
-<p align="center">
-  <img width="460" height="450" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/12507265_1651272625133624_6327118509352301225_n.jpg">
-</p>
-
-
 ## Beginner Machine Learning Resources 
 > Forked and modified for this workshop from - [Beginner-Machine-Learning-Resources](https://github.com/NSU-ACM-SC/Beginner-Machine-Learning-Resources)
 
