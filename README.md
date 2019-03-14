@@ -177,6 +177,6 @@ or just click on the links below to get there.
 
 - **[Day - 1 : Introduction to Machine Learning, Why learn Machine Learning and Overview of Various algorithms used in Machine Learning.](https://github.com/mossydidar/Workshop-on-Machine-Learning-/blob/master/Docs/Day-1.md)**
 
-- **[Day - 2 : Regression and Classification, Decision Trees, Naive Bayes, K-Nearest Neighbors, Vector Quantization, Support Vector Machines, Bagging and Random Forest, Data Processing, Model validation and Metrics](https://github.com/mossydidar/Workshop-on-Machine-Learning-2018/blob/master/Docs/Day-2.md)**
+- **[Day - 2 : Regression and Classification, Decision Trees, Naive Bayes, K-Nearest Neighbors, Vector Quantization, Support Vector Machines, Bagging and Random Forest, Data Processing, Model validation and Metrics](https://github.com/mossydidar/Workshop-on-Machine-Learning-/blob/master/Docs/Day-2.md)**
 
 - **[Day - 3 : More Applications, Visualizations, Feature Engineering and Summary of the workshop and Q/A Sessions.](https://github.com/mossydidar/Workshop-on-Machine-Learning-2018/blob/master/Docs/Day-3.md)**
