@@ -167,8 +167,8 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 The discussion has been divided into multiple markdown files in the docs folder. You can read the from there 
 or just click on the links below to get there.
 
-- **[Day - 1 : Introduction to Machine Learning, Why learn Machine Learning and Overview of Various algorithms used in Machine Learning.]
+- [Day - 1 : Introduction to Machine Learning, Why learn Machine Learning and Overview of Various algorithms used in Machine Learning.]
 
-- **[Day - 2 : Regression and Classification, Decision Trees, Naive Bayes, K-Nearest Neighbors, Vector Quantization, Support Vector Machines, Bagging and Random Forest, Data Processing, Model validation and Metrics]
+- [Day - 2 : Regression and Classification, Decision Trees, Naive Bayes, K-Nearest Neighbors, Vector Quantization, Support Vector Machines, Bagging and Random Forest, Data Processing, Model validation and Metrics]
 
-- **[Day - 3 : More Applications, Visualizations, Feature Engineering and Summary of the workshop and Q/A Sessions.]
+- [Day - 3 : More Applications, Visualizations, Feature Engineering and Summary of the workshop and Q/A Sessions.]
