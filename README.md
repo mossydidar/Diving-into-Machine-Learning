@@ -1,8 +1,5 @@
 
-   This repo contents all the informations regarding workshop on Machine Learning by NSU ACM SC. 
-   
-   
-   
+  
    ## What we are going to learn from this Workshop
    ### Day 1:
    - **Introduction to Machine Learning**
