@@ -17,7 +17,7 @@
                                            The instructors for this workshop are 
 
 ```
-                                                     Mostafa Didar
+                                                     Mostafa Didar & Asif Ahmed Niloy
 ```
 <p align="center">
   <img width="460" height="400" src="https://github.com/mossydidar/Workshop-on-Machine-Learning-/blob/master/Images/51561962_771749789851987_7929008664961089536_n.jpg">
